@@ -54,6 +54,7 @@ function ask() {
         connection.query(
             "INSERT"
         )
-
+            // Neeed to make a function that will then up date the current data 
+            
     })
 }
